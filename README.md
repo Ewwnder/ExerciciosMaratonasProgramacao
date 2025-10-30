@@ -1,4 +1,4 @@
-# 🧠💻 Repositório de Exercícios Resolvidos — C++ & Python
+# Repositório de Exercícios Resolvidos — C++ & Python
 
 Este repositório reúne **exercícios resolvidos em C++ e Python**, com o objetivo de **treinar lógica de programação, algoritmos e raciocínio competitivo**.  
 O foco principal é o **aperfeiçoamento técnico** para competições como:
